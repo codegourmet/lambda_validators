@@ -1,3 +1,9 @@
+# SimpleCov
+test/coverage
+
+# Bundler
+Gemfile.lock
+
 *.gem
 *.rbc
 /.config
