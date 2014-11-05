@@ -1,7 +1,7 @@
 guard :minitest do
 
   # run all tests when lib main module file changes
-  watch(%r{^lib/validators.rb$}) { "test" }
+  watch(%r{^lib/lambda_validators.rb$}) { "test" }
 
   # run accompanying test for single source file if it changes
   watch(%r{^lib/(.*)\.rb$}) {|m| "test/#{m[1]}_test.rb" }

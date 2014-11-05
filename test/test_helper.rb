@@ -1,6 +1,6 @@
 require 'simplecov' # has to be at top, will execute ../.simplecov
 
-require 'validators'
+require 'lambda_validators'
 
 require 'minitest/autorun'
 require 'minitest/reporters'
