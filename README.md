@@ -1,7 +1,11 @@
 lambda_validators
 =================
 
-Simple all-purpose data validation (lambda-based)
+Simple all-purpose data validation (lambda-based).
+
+*NOTE* If you're validating hashes, I suggest you have a look at https://github.com/jamesbrooks/hash_validator
+I haven't tested it out yet, but it looks nice.
+
 
 Until complete documentation is done, here are some examples, taken from the unit tests:
 
