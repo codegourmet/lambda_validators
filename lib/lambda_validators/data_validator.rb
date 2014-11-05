@@ -1,4 +1,4 @@
-module Validators
+module LambdaValidators
 
   # TODO README
   # TODO RDOC
